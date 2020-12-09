@@ -7,7 +7,7 @@ TestedOn: Kali linux 2020.2a i386 x86
 Payload: ASM>SH<=>N/A
 Language: C++ / Shellcode-Hex / Assembly
 Patch: n/a
-Danger: Godzilla
+Danger: 10
 Classification: ALNX-1003-SDASHR
 SByte-Boom: 35
 ```
